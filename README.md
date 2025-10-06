@@ -26,8 +26,7 @@ The main workflow is implemented in the Python script below and demonstrated usi
 2. Removing Duplicates  
 3. Renaming a columns
 4. Dropping Unnecessary Columns
-5. Changing Data Types
-6. Text Case Normalization
+5. detection and handling outliers
 
 ## ⚙️ Tools & Libraries
 - **Environment:** Google Colab (Python 3)  
